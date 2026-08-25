@@ -12,3 +12,17 @@ This is a **personal skill development project** created to strengthen my practi
 The project transforms raw furniture sales data into an interactive business dashboard that helps users monitor key sales metrics, identify trends, compare regional performance, and gain meaningful business insights using Excel's analytical features.
 
 ---
+
+## 🎯 Business Problems This Dashboard Solves
+
+Raw sales data can be difficult to interpret and analyze efficiently. This dashboard provides a centralized and interactive reporting solution to help users:
+
+- Monitor overall business performance using key KPIs
+- Identify monthly sales trends and performance patterns
+- Compare sales across different furniture categories
+- Analyze sales distribution across states and regions
+- Understand shipping modes and delivery duration
+- Identify the top-performing cities by sales
+- Compare performance across different **Customer Segments** and **Regions** using interactive slicers
+
+---
