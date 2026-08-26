@@ -28,4 +28,5 @@ Raw sales data can be difficult to interpret and analyze efficiently. This dashb
 ---
 
 ## 📸 Dashboard Preview
+<img width="1333" height="662" alt="Furniture Sales Overview Dashboad" src="https://github.com/user-attachments/assets/51b24173-d355-4a98-90a2-0f8888b5d2af" />
 
